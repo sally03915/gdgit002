@@ -25,5 +25,9 @@
 	<div class="container panel panel-info">
 		<h3 class="panel-heading">충돌해결 - hotfix2(같은줄에서 수정하면 충돌이 발생함.)</h3>
 	</div><!--  end container -->
+
+	<div class="container panel panel-info">
+		<h3 class="panel-heading">로컬저장소와 원격저장소 연결</h3>
+	</div><!--  end container -->
 </body>
 </html>
