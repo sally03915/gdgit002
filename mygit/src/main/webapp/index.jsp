@@ -23,7 +23,7 @@
 	</div><!--  end container -->
 	
 	<div class="container panel panel-info">
-		<h3 class="panel-heading">충돌해결 - hotfix2 (같은줄에서 수정하면 충돌이 발생함.)</h3>
+		<h3 class="panel-heading">충돌해결 - hotfix2(같은줄에서 수정하면 충돌이 발생함.)</h3>
 	</div><!--  end container -->
 </body>
 </html>
