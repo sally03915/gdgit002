@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,6 +20,10 @@
 	
 	<div class="container panel panel-info">
 		<h3 class="panel-heading">branch생성, 이동, merge - test</h3>
+	</div><!--  end container -->
+	
+	<div class="container panel panel-info">
+		<h3 class="panel-heading">충돌해결</h3>
 	</div><!--  end container -->
 </body>
 </html>
