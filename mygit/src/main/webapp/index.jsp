@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class="container panel panel-info">
-		<h3 class="panel-heading">GIT 저장소 생성 및 커밋</h3>
+		<h3 class="panel-heading">GIT 저장소 생성 및 커밋 </h3>
 	</div><!--  end container -->
 </body>
 </html>
